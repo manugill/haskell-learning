@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.tabSize": 4,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.wrappingColumn": 100,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "hindentFormat.command": "hindent --line-length 80 --indent-size 4",
+    "haskell.ghci": false,
+    "haskell.runhaskell": false,
+    "haskell.stackbuild": false,
+    "haskell.quickcheck": false
+}
